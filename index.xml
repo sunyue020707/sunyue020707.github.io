@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>数字记忆 周庄</title>
+    <link>https://sunyue020707.github.io/room.github.io/</link>
+    <description>Recent content on 数字记忆 周庄</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-CN</language>
+    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sunyue020707.github.io/room.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>风过留痕，雁过留声——周庄记忆数字化</title>
+      <link>https://sunyue020707.github.io/room.github.io/posts/welcome-to-the-new-tranquilpeak/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunyue020707.github.io/room.github.io/posts/welcome-to-the-new-tranquilpeak/</guid>
+      <description>&lt;p&gt;周庄镇，古称泽国，隶属于江苏省苏州市昆山市，位于昆山、吴江、上海三地交界处，镇域面积38.96平方公里。周庄镇始建于北宋元祐元年（1086年），因邑人周迪功郎捐地修全福寺而得名，是江南六大古镇之一。   &lt;strong&gt;网站主要通过搜集网络上关于周庄的数字资料对周庄进行简要的介绍，希望通过多种方式帮助访客对周庄有简单的了解。&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>地域风水</title>
+      <link>https://sunyue020707.github.io/room.github.io/posts/diyufengshui/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunyue020707.github.io/room.github.io/posts/diyufengshui/</guid>
+      <description>&lt;p&gt;周庄古朴的明清建筑、静谧流淌的河水让无数文人墨客为之倾心，赵丽华老师的《周庄水韵》更是入选了多本中小学教材。周庄的每一栋建筑、每一座石桥、每一泻溪流都曾引人驻足称叹……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>历史文化</title>
+      <link>https://sunyue020707.github.io/room.github.io/posts/elements-showcase/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunyue020707.github.io/room.github.io/posts/elements-showcase/</guid>
+      <description>&lt;p&gt;中国第一水乡周庄有着许多独特的民俗风情，无数中外游客来到这里，不仅被“小桥、流水、人家”的美景所吸引，同时被周庄独特的民俗风情深深地吸引。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>乡土生活</title>
+      <link>https://sunyue020707.github.io/room.github.io/posts/cover-image-showcase/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunyue020707.github.io/room.github.io/posts/cover-image-showcase/</guid>
+      <description>&lt;p&gt;“有一种生活叫周庄”，而周庄的生活可不止一种。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>游客游记</title>
+      <link>https://sunyue020707.github.io/room.github.io/posts/highlighted-code-showcase/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunyue020707.github.io/room.github.io/posts/highlighted-code-showcase/</guid>
+      <description>&lt;p&gt;周庄的旅游体验如何？来看看TA们分享的旅游经验和心得吧！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sunyue020707.github.io/room.github.io/posts/hugo%E6%89%A9%E5%B1%95%E5%8A%9F%E8%83%BD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunyue020707.github.io/room.github.io/posts/hugo%E6%89%A9%E5%B1%95%E5%8A%9F%E8%83%BD/</guid>
+      <description>1.评论参考地址 https://cloud.tencent.com/developer/article/1787522
+2.搜索功能 先注册algolia 创建index 修改config.toml文件增加algolia配置 在页面中添加search界面 使用atomic-algolia自动上传索引文件 atomic-algolia命令可以上传索引文件到服务端
+编译上传 hugo cd public npm run upload git add . git commit -m &amp;lsquo;更新&amp;rsquo; git push</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://sunyue020707.github.io/room.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunyue020707.github.io/room.github.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+  </channel>
+</rss>
