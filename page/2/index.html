@@ -265,7 +265,7 @@
       
         1.评论参考地址 https://cloud.tencent.com/developer/article/1787522
 2.搜索功能 先注册algolia 创建index 修改config.toml文件增加algolia配置 在页面中添加search界面 使用atomic-algolia自动上传索引文件 atomic-algolia命令可以上传索引文件到服务端
-编译上传 hugo cd public npm run upload git add . git commit -m &lsquo;更新&rsquo; git push
+3.打开github pages选择从master分支部署 4.编译上传 # 1.生成html文件到public目录 hugo # 2.进入public目录 cd public # 3.用atomic-algolia上传索引文件到搜索服务后台 npm run upload # 4.暂存public目录下所有修改 git add . # 备注信息 git commit -m &#39;更新&#39; # 5.将暂存的改动的推送到github上 git push # 过一会儿访问https://sunyue020707.github.io就能看到改动了，如果没有多刷新几次，可能会有浏览器缓存 
       
       <p>
         
